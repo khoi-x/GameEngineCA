@@ -28,6 +28,7 @@ Hands Repo: https://github.com/skooter500/hands
 # Proposal submitted earlier can go here:
 
 **Summary**
+
 Vocabulary recall while under pressure from enemies. Players must look around for cards and rapidly pick up vocabulary cards scattered around them on the floor and assign them to the correct target boxes before an approaching enemy attacks/reaches them. By immersing the player with physical movement (looking for cards, enemies and picking up cards) and creating an environment for repetition and recall, the game reinforces vocabulary acquisition through high-stakes repetition.
 
 **Gameplay Mechanics & Core Loop**
@@ -40,7 +41,9 @@ _Core Loop_
 4.	Success: next level removes 1 of the training wheels
 
 _Controls_
+
 Primary: pick up hand-gesture and release to shoot(tbd) 
+
 Secondary: mouse and keyboard
 
 _Power Cards:_
@@ -52,6 +55,7 @@ _Power Cards:_
 •	Tbd
 
 **Learning objective**
+
 Vocabulary acquisition while under fun and engaging mild pressure
 
 _Technologies and libraries:_
@@ -67,6 +71,7 @@ _Technologies and libraries:_
 •	Digital drawing software for art
 
 _(Visual Example)_ 
+
 <img width="719" height="619" alt="Screenshot 2026-10-25 003218" src="https://github.com/user-attachments/assets/0bd3d055-5cb7-40bb-9e65-234c37f436ed" />
 
 **Development goals**
