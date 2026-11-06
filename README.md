@@ -80,3 +80,5 @@ _(Visual Example)_
 3.	Matching cards: data store
 4.	Enemies and power cards: path to player
 5.	Audio and visuals: Sfx and 2/3D assets creation
+   
+Team: Me
