@@ -31,7 +31,9 @@ Hands Repo: https://github.com/skooter500/hands
 Vocabulary recall while under pressure from enemies. Players must look around for cards and rapidly pick up vocabulary cards scattered around them on the floor and assign them to the correct target boxes before an approaching enemy attacks/reaches them. By immersing the player with physical movement (looking for cards, enemies and picking up cards) and creating an environment for repetition and recall, the game reinforces vocabulary acquisition through high-stakes repetition.
 
 **Gameplay Mechanics & Core Loop**
+
 _Core Loop_
+
 1.	Spawn Cards: cards with images and words, target words, non-target words and power cards
 2.	Monitor target boxes and enemies: through visually looking and sound they make
 3.	Shoot: shoot at target box or enemy
