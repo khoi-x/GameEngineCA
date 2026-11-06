@@ -42,8 +42,11 @@ Primary: pick up hand-gesture and release to shoot(tbd)
 Secondary: mouse and keyboard
 
 _Power Cards:_
+
 •	Freeze card
+
 •	Destroy
+
 •	Tbd
 
 **Learning objective**
@@ -52,9 +55,13 @@ Vocabulary acquisition while under fun and engaging mild pressure
 _Technologies and libraries:_
 
 •	skooter500 Hands repository for hands & Godot XR Hand Pose Detector 
+
 •	Json for word storage
+
 •	Blender to make assets
+
 •	GDFXR for sound effects / Spatial audio3D?
+
 •	Digital drawing software for art
 
 _(Visual Example)_ 
