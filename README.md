@@ -1,3 +1,4 @@
+
 # Card Escape
 Student Number: A00085105
 
@@ -27,5 +28,5 @@ Hands Repo: https://github.com/skooter500/hands
 # Proposal submitted earlier can go here:
 
 
-
+<img width="719" height="619" alt="Screenshot 2026-10-25 003218" src="https://github.com/user-attachments/assets/0bd3d055-5cb7-40bb-9e65-234c37f436ed" />
 https://www.image2url.com/r2/default/images/1793995377765-340b1626-de1f-49f2-80fa-8a102fb2fb5e.png
