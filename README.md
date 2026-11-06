@@ -49,7 +49,8 @@ _Power Cards:_
 **Learning objective**
 Vocabulary acquisition while under fun and engaging mild pressure
 
-_Technologies and libraries_
+_Technologies and libraries:_
+
 •	skooter500 Hands repository for hands & Godot XR Hand Pose Detector 
 •	Json for word storage
 •	Blender to make assets
