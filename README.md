@@ -24,4 +24,8 @@ Hands Repo: https://github.com/skooter500/hands
 
 # What I learned
 
-# Proposal submitted earlier can go here: hmmmm
+# Proposal submitted earlier can go here:
+
+
+
+https://www.image2url.com/r2/default/images/1793995377765-340b1626-de1f-49f2-80fa-8a102fb2fb5e.png
